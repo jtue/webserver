@@ -1,2 +1,3 @@
 # webserver
-gcp Assignment 1
+gcp Assignment
+now contains: Dockerfile, index, README
